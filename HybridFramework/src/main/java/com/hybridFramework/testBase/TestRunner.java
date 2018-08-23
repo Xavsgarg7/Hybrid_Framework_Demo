@@ -107,7 +107,7 @@ class Executer {
 				} else if (keyword.equals("clickOn")) {
 					ActionKeyword.clickOn(excelData[i][3], excelData[i][4]);
 				} else if (keyword.equals("quitDriver")) {
-					logger1.info("closing the browser");
+					logger1.info("closing the browser...");
 					ActionKeyword.quitDriver();
 
 				}
