@@ -1,0 +1,143 @@
+2018-08-22 00:40:02 INFO  TestBase:35 - opening the browser
+2018-08-22 00:45:56 INFO  TestRunner:35 - opening the browser
+2018-08-22 13:32:21 INFO  TestRunner:46 - opening the browser
+2018-08-22 13:33:38 INFO  TestRunner:46 - opening the browser
+2018-08-22 13:34:37 INFO  TestRunner:46 - opening the browser
+2018-08-22 13:36:08 INFO  TestRunner:41 - opening the browser
+2018-08-22 13:37:01 INFO  TestRunner:41 - opening the browser
+2018-08-22 13:37:59 INFO  TestRunner:42 - opening the browser
+2018-08-22 13:39:44 INFO  TestRunner:47 - opening the browser
+2018-08-22 13:41:17 INFO  TestRunner:47 - opening the browser
+2018-08-22 13:43:22 INFO  TestRunner:47 - opening the browser
+2018-08-22 13:45:46 INFO  TestRunner:48 - opening the browser
+2018-08-22 13:59:41 INFO  TestRunner:44 - opening the browser
+2018-08-22 14:01:19 INFO  TestRunner:44 - opening the browser
+2018-08-22 14:02:38 INFO  TestRunner:44 - opening the browser
+2018-08-22 14:03:14 INFO  TestRunner:44 - opening the browser
+2018-08-22 14:03:49 INFO  TestRunner:44 - opening the browser
+2018-08-22 15:32:32 INFO  TestRunner:50 - opening the browser
+2018-08-22 15:39:00 INFO  TestRunner:50 - opening the browser
+2018-08-22 15:48:25 INFO  TestRunner:50 - opening the browser
+2018-08-22 16:05:21 INFO  TestRunner:51 - opening the browser
+2018-08-22 16:15:39 INFO  TestRunner:51 - opening the browser
+2018-08-22 16:16:04 INFO  TestRunner:51 - opening the browser
+2018-08-22 16:18:19 INFO  TestRunner:51 - opening the browser
+2018-08-22 16:27:52 INFO  TestRunner:51 - opening the browser
+2018-08-22 16:30:00 INFO  TestRunner:51 - opening the browser
+2018-08-22 16:30:22 INFO  TestRunner:79 - opening the browser
+2018-08-22 16:38:29 INFO  TestRunner:51 - opening the browser
+2018-08-22 16:38:48 INFO  TestRunner:79 - opening the browser
+2018-08-22 16:40:08 INFO  TestRunner:51 - opening the browser
+2018-08-22 16:48:51 INFO  TestRunner:51 - opening the browser
+2018-08-22 16:50:05 INFO  TestRunner:51 - opening the browser
+2018-08-22 16:50:20 INFO  TestRunner:51 - opening the browser
+2018-08-22 16:54:52 INFO  TestRunner:51 - opening the browser
+2018-08-22 16:56:12 INFO  TestRunner:51 - opening the browser
+2018-08-22 16:56:29 INFO  TestRunner:51 - opening the browser
+2018-08-22 17:28:17 INFO  TestRunner:47 - opening the browser
+2018-08-22 17:28:52 INFO  TestRunner:47 - opening the browser
+2018-08-23 12:06:38 INFO  TestRunner:47 - opening the browser
+2018-08-23 12:09:07 INFO  TestRunner:48 - opening the browser
+2018-08-23 12:11:22 INFO  TestRunner:48 - opening the browser
+2018-08-23 12:14:19 INFO  TestRunner:48 - opening the browser
+2018-08-23 12:16:24 INFO  TestRunner:50 - opening the browser
+2018-08-23 12:18:32 INFO  TestRunner:53 - opening the browser
+2018-08-23 12:19:35 INFO  TestRunner:53 - opening the browser
+2018-08-23 12:22:09 INFO  TestRunner:70 - opening the browser
+2018-08-23 12:23:09 INFO  TestRunner:70 - opening the browser
+2018-08-23 12:30:31 INFO  TestRunner:71 - opening the browser
+2018-08-23 12:33:28 INFO  TestRunner:73 - opening the browser
+2018-08-23 12:45:22 INFO  TestRunner:75 - opening the browser
+2018-08-23 13:16:32 INFO  TestRunner:81 - opening the browser
+2018-08-23 13:21:52 INFO  TestRunner:81 - opening the browser
+2018-08-23 13:21:55 INFO  TestRunner:84 - navigating to the site
+2018-08-23 13:21:59 INFO  TestRunner:87 - passing the values
+2018-08-23 13:21:59 INFO  TestRunner:87 - passing the values
+2018-08-23 13:24:05 INFO  TestRunner:81 - opening the browser
+2018-08-23 13:24:09 INFO  TestRunner:84 - navigating to the site
+2018-08-23 13:24:12 INFO  TestRunner:87 - passing the values
+2018-08-23 13:24:12 INFO  TestRunner:87 - passing the values
+2018-08-23 13:32:33 INFO  TestRunner:81 - opening the browser
+2018-08-23 13:32:37 INFO  TestRunner:84 - navigating to the site
+2018-08-23 13:32:41 INFO  TestRunner:87 - passing the values
+2018-08-23 13:32:41 INFO  TestRunner:87 - passing the values
+2018-08-23 14:31:29 INFO  TestRunner:108 - opening the browser
+2018-08-23 14:31:29 INFO  TestRunner:108 - opening the browser
+2018-08-23 14:31:33 INFO  TestRunner:111 - navigating to the site
+2018-08-23 14:31:33 INFO  TestRunner:111 - navigating to the site
+2018-08-23 14:31:38 INFO  TestRunner:114 - passing the values
+2018-08-23 14:31:40 INFO  TestRunner:114 - passing the values
+2018-08-23 14:31:40 INFO  TestRunner:114 - passing the values
+2018-08-23 14:31:40 INFO  TestRunner:114 - passing the values
+2018-08-23 14:34:03 INFO  TestRunner:105 - opening the browser
+2018-08-23 14:34:03 INFO  TestRunner:105 - opening the browser
+2018-08-23 14:34:07 INFO  TestRunner:108 - navigating to the site
+2018-08-23 14:34:07 INFO  TestRunner:108 - navigating to the site
+2018-08-23 14:34:11 INFO  TestRunner:111 - passing the values
+2018-08-23 14:34:12 INFO  TestRunner:111 - passing the values
+2018-08-23 14:34:12 INFO  TestRunner:111 - passing the values
+2018-08-23 14:34:13 INFO  TestRunner:111 - passing the values
+2018-08-23 14:44:55 INFO  TestRunner:102 - opening the browser
+2018-08-23 14:44:55 INFO  TestRunner:102 - opening the browser
+2018-08-23 14:44:58 INFO  TestRunner:105 - navigating to the site
+2018-08-23 14:44:58 INFO  TestRunner:105 - navigating to the site
+2018-08-23 14:45:02 INFO  TestRunner:108 - passing the values
+2018-08-23 14:45:04 INFO  TestRunner:108 - passing the values
+2018-08-23 14:45:04 INFO  TestRunner:108 - passing the values
+2018-08-23 14:45:04 INFO  TestRunner:108 - passing the values
+2018-08-23 14:48:58 INFO  TestRunner:101 - opening the browser
+2018-08-23 14:48:58 INFO  TestRunner:101 - opening the browser
+2018-08-23 14:49:01 INFO  TestRunner:104 - navigating to the site
+2018-08-23 14:49:01 INFO  TestRunner:104 - navigating to the site
+2018-08-23 14:49:07 INFO  TestRunner:107 - passing the values
+2018-08-23 14:49:10 INFO  TestRunner:107 - passing the values
+2018-08-23 14:49:10 INFO  TestRunner:107 - passing the values
+2018-08-23 14:49:10 INFO  TestRunner:107 - passing the values
+2018-08-23 14:58:37 INFO  TestRunner:101 - opening the browser
+2018-08-23 14:58:37 INFO  TestRunner:101 - opening the browser
+2018-08-23 14:58:41 INFO  TestRunner:104 - navigating to the site
+2018-08-23 14:58:41 INFO  TestRunner:104 - navigating to the site
+2018-08-23 14:58:45 INFO  TestRunner:107 - passing the values
+2018-08-23 14:58:46 INFO  TestRunner:107 - passing the values
+2018-08-23 14:58:46 INFO  TestRunner:107 - passing the values
+2018-08-23 14:58:46 INFO  TestRunner:107 - passing the values
+2018-08-23 15:06:19 INFO  TestRunner:101 - opening the browser
+2018-08-23 15:06:19 INFO  TestRunner:101 - opening the browser
+2018-08-23 15:06:23 INFO  TestRunner:104 - navigating to the site
+2018-08-23 15:06:23 INFO  TestRunner:104 - navigating to the site
+2018-08-23 15:06:26 INFO  TestRunner:107 - passing the values
+2018-08-23 15:06:28 INFO  TestRunner:107 - passing the values
+2018-08-23 15:06:28 INFO  TestRunner:107 - passing the values
+2018-08-23 15:06:28 INFO  TestRunner:107 - passing the values
+2018-08-23 15:07:31 INFO  TestRunner:101 - opening the browser
+2018-08-23 15:07:31 INFO  TestRunner:101 - opening the browser
+2018-08-23 15:07:35 INFO  TestRunner:104 - navigating to the site
+2018-08-23 15:07:35 INFO  TestRunner:104 - navigating to the site
+2018-08-23 15:07:38 INFO  TestRunner:107 - passing the values
+2018-08-23 15:07:39 INFO  TestRunner:107 - passing the values
+2018-08-23 15:07:40 INFO  TestRunner:107 - passing the values
+2018-08-23 15:07:40 INFO  TestRunner:107 - passing the values
+2018-08-23 15:08:15 INFO  TestRunner:105 - opening the browser
+2018-08-23 15:08:15 INFO  TestRunner:105 - opening the browser
+2018-08-23 15:08:18 INFO  TestRunner:108 - navigating to the site
+2018-08-23 15:08:18 INFO  TestRunner:108 - navigating to the site
+2018-08-23 15:08:22 INFO  TestRunner:111 - passing the values
+2018-08-23 15:08:24 INFO  TestRunner:111 - passing the values
+2018-08-23 15:08:24 INFO  TestRunner:111 - passing the values
+2018-08-23 15:08:24 INFO  TestRunner:111 - passing the values
+2018-08-23 15:09:48 INFO  TestRunner:105 - opening the browser
+2018-08-23 15:09:48 INFO  TestRunner:105 - opening the browser
+2018-08-23 15:09:51 INFO  TestRunner:108 - navigating to the site
+2018-08-23 15:09:51 INFO  TestRunner:108 - navigating to the site
+2018-08-23 15:09:55 INFO  TestRunner:111 - passing the values
+2018-08-23 15:09:57 INFO  TestRunner:111 - passing the values
+2018-08-23 15:09:57 INFO  TestRunner:111 - passing the values
+2018-08-23 15:09:57 INFO  TestRunner:111 - passing the values
+2018-08-23 15:10:24 INFO  TestRunner:105 - opening the browser
+2018-08-23 15:10:24 INFO  TestRunner:105 - opening the browser
+2018-08-23 15:10:27 INFO  TestRunner:108 - navigating to the site
+2018-08-23 15:10:27 INFO  TestRunner:108 - navigating to the site
+2018-08-23 15:10:32 INFO  TestRunner:111 - passing the values
+2018-08-23 15:10:35 INFO  TestRunner:111 - passing the values
+2018-08-23 15:10:35 INFO  TestRunner:111 - passing the values
+2018-08-23 15:10:35 INFO  TestRunner:111 - passing the values
