@@ -7,14 +7,14 @@ import org.apache.log4j.PropertyConfigurator;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.Status;
+import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.hybridFramework.excelReader.ExcelReader;
 import com.hybridFramework.uiActions.ActionKeyword;
 
 public class TestRunner {
 	public static final Logger logger = Logger.getLogger(TestRunner.class.getName());
-	static ExtentReports report;
-	ExtentTest ExTest;
-
+	
 	public static void main(String args[]) {
 		String log4jConfPath = "log4j.properties";
 		PropertyConfigurator.configure(log4jConfPath);
@@ -29,6 +29,13 @@ public class TestRunner {
 class Executer {
 
 	public static final Logger logger1 = Logger.getLogger(TestRunner.class.getName());
+	
+	ExtentHtmlReporter htmlReporter = new ExtentHtmlReporter("./Reports/extent.html");
+	ExtentReports extent = new ExtentReports();
+	ExtentTest exTest;
+	
+	
+	
 	String testSuite[][] = ExcelReader.readExcel("Testsuite.xlsx", "TestSuite");
 	int testSuiteLength = testSuite.length;
 
@@ -71,7 +78,7 @@ class Executer {
 					} catch (Exception e) {}
 				}
 			});
-
+            t2.wait(1000);
 			t2.start();
 
 		} else {
@@ -86,11 +93,16 @@ class Executer {
 	}
 
 	public void executeTestCases(ArrayList<String> testCases, ArrayList<String> testCaseNames) throws Exception {
+		extent.attachReporter(htmlReporter);
+		
 		for (int j = 0; j < testCases.size(); j++) {
 			String testCaseID = testCases.get(j);
+			String fileName=testCaseID + ".xlsx";
 			String testCaseName = testCaseNames.get(j);
-			String excelData[][] = ExcelReader.readExcel("Testsuite.xlsx", testCaseID);
+			String excelData[][] = ExcelReader.readExcel(fileName, testCaseID);
 			System.out.println("******Running " + testCaseName + "******");
+			
+			exTest=extent.createTest(testCaseName);
 
 			for (int i = 1; i < excelData.length; i++) {
 
@@ -111,10 +123,11 @@ class Executer {
 					ActionKeyword.quitDriver();
 
 				}
+				exTest.log(Status.INFO,"passed");
 			}
 
 			System.out.println(" ");
-
+            extent.flush();
 		}
 
 	}
