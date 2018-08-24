@@ -4,8 +4,11 @@ import java.util.Map;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -52,6 +55,20 @@ public class ActionKeyword {
 	public static void quitDriver() throws Exception {
 		driver.quit();
 		
+	}
+	/*public static void scrollDown() {
+		JavascriptExecutor js = (JavascriptExecutor) driver;
+		js.executeScript("window.scrollBy(0,1000)");
+	}*/
+	public static void scrollDown() {
+		JavascriptExecutor js = (JavascriptExecutor) driver;
+		js.executeScript("window.scrollBy(0,1000)");
+	}
+	public static void openInNewTab(String locatorType, String locatorValue) throws Exception {
+		WebElement we=TestBase.getLocator(driver,locatorType,locatorValue);
+		Actions oAction = new Actions(driver);
+		oAction.moveToElement(we);
+		oAction.contextClick(we).sendKeys(Keys.ARROW_DOWN).sendKeys(Keys.ENTER).build().perform(); 
 	}
 
 	

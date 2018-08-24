@@ -235,3 +235,211 @@
 2018-08-23 19:13:32 INFO  TestRunner:117 - passing the values
 2018-08-23 19:13:33 INFO  TestRunner:117 - passing the values
 2018-08-23 19:13:36 INFO  TestRunner:117 - passing the values
+2018-08-24 13:44:59 INFO  TestRunner:111 - opening the browser
+2018-08-24 13:45:03 INFO  TestRunner:114 - navigating to the site
+2018-08-24 13:45:06 INFO  TestRunner:117 - passing the values
+2018-08-24 13:47:47 INFO  TestRunner:111 - opening the browser
+2018-08-24 13:47:50 INFO  TestRunner:114 - navigating to the site
+2018-08-24 13:48:02 INFO  TestRunner:117 - passing the values
+2018-08-24 13:48:02 INFO  TestRunner:117 - passing the values
+2018-08-24 14:43:14 INFO  TestRunner:115 - opening the browser
+2018-08-24 14:43:18 INFO  TestRunner:118 - navigating to the site
+2018-08-24 14:43:31 INFO  TestRunner:121 - passing the values
+2018-08-24 14:43:32 INFO  TestRunner:121 - passing the values
+2018-08-24 14:46:04 INFO  TestRunner:115 - opening the browser
+2018-08-24 14:46:08 INFO  TestRunner:118 - navigating to the site
+2018-08-24 14:46:19 INFO  TestRunner:121 - passing the values
+2018-08-24 14:46:19 INFO  TestRunner:121 - passing the values
+2018-08-24 14:48:26 INFO  TestRunner:122 - opening the browser
+2018-08-24 14:48:30 INFO  TestRunner:125 - navigating to the site
+2018-08-24 14:48:43 INFO  TestRunner:128 - passing the values
+2018-08-24 14:48:43 INFO  TestRunner:128 - passing the values
+2018-08-24 14:48:50 INFO  TestRunner:122 - opening the browser
+2018-08-24 14:48:54 INFO  TestRunner:125 - navigating to the site
+2018-08-24 14:49:06 INFO  TestRunner:128 - passing the values
+2018-08-24 14:49:06 INFO  TestRunner:128 - passing the values
+2018-08-24 14:56:31 INFO  TestRunner:122 - opening the browser
+2018-08-24 14:56:35 INFO  TestRunner:125 - navigating to the site
+2018-08-24 14:56:46 INFO  TestRunner:128 - passing the values
+2018-08-24 14:56:46 INFO  TestRunner:128 - passing the values
+2018-08-24 14:56:53 INFO  TestRunner:122 - opening the browser
+2018-08-24 14:56:56 INFO  TestRunner:125 - navigating to the site
+2018-08-24 14:57:09 INFO  TestRunner:128 - passing the values
+2018-08-24 14:57:09 INFO  TestRunner:128 - passing the values
+2018-08-24 14:59:07 INFO  TestRunner:122 - opening the browser
+2018-08-24 14:59:11 INFO  TestRunner:125 - navigating to the site
+2018-08-24 14:59:25 INFO  TestRunner:133 - clicked on element
+2018-08-24 14:59:25 INFO  TestRunner:128 - passing the values
+2018-08-24 14:59:26 INFO  TestRunner:128 - passing the values
+2018-08-24 14:59:29 INFO  TestRunner:133 - clicked on element
+2018-08-24 14:59:32 INFO  TestRunner:133 - clicked on element
+2018-08-24 14:59:32 INFO  TestRunner:122 - opening the browser
+2018-08-24 14:59:36 INFO  TestRunner:125 - navigating to the site
+2018-08-24 14:59:49 INFO  TestRunner:133 - clicked on element
+2018-08-24 14:59:49 INFO  TestRunner:128 - passing the values
+2018-08-24 14:59:49 INFO  TestRunner:128 - passing the values
+2018-08-24 14:59:52 INFO  TestRunner:133 - clicked on element
+2018-08-24 14:59:56 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:01:24 INFO  TestRunner:122 - opening the browser
+2018-08-24 15:01:28 INFO  TestRunner:125 - navigating to the site
+2018-08-24 15:01:42 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:01:42 INFO  TestRunner:128 - passing the values
+2018-08-24 15:01:42 INFO  TestRunner:128 - passing the values
+2018-08-24 15:01:45 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:01:48 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:01:49 INFO  TestRunner:122 - opening the browser
+2018-08-24 15:01:52 INFO  TestRunner:125 - navigating to the site
+2018-08-24 15:02:05 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:02:05 INFO  TestRunner:128 - passing the values
+2018-08-24 15:02:05 INFO  TestRunner:128 - passing the values
+2018-08-24 15:02:08 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:02:14 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:06:49 INFO  TestRunner:122 - opening the browser
+2018-08-24 15:06:53 INFO  TestRunner:125 - navigating to the site
+2018-08-24 15:07:05 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:07:05 INFO  TestRunner:128 - passing the values
+2018-08-24 15:07:05 INFO  TestRunner:128 - passing the values
+2018-08-24 15:07:08 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:07:12 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:07:12 INFO  TestRunner:122 - opening the browser
+2018-08-24 15:07:16 INFO  TestRunner:125 - navigating to the site
+2018-08-24 15:07:30 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:07:30 INFO  TestRunner:128 - passing the values
+2018-08-24 15:07:30 INFO  TestRunner:128 - passing the values
+2018-08-24 15:07:33 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:07:38 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:20:45 INFO  TestRunner:122 - opening the browser
+2018-08-24 15:20:49 INFO  TestRunner:125 - navigating to the site
+2018-08-24 15:23:30 INFO  TestRunner:122 - opening the browser
+2018-08-24 15:23:34 INFO  TestRunner:125 - navigating to the site
+2018-08-24 15:23:46 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:23:46 INFO  TestRunner:128 - passing the values
+2018-08-24 15:23:46 INFO  TestRunner:128 - passing the values
+2018-08-24 15:23:49 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:23:52 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:31:36 INFO  TestRunner:123 - opening the browser
+2018-08-24 15:31:37 INFO  TestRunner:123 - opening the browser
+2018-08-24 15:31:40 INFO  TestRunner:126 - navigating to the site
+2018-08-24 15:31:40 INFO  TestRunner:126 - navigating to the site
+2018-08-24 15:31:55 INFO  TestRunner:134 - clicked on element
+2018-08-24 15:31:55 INFO  TestRunner:129 - passing the values
+2018-08-24 15:31:56 INFO  TestRunner:134 - clicked on element
+2018-08-24 15:31:56 INFO  TestRunner:129 - passing the values
+2018-08-24 15:31:57 INFO  TestRunner:129 - passing the values
+2018-08-24 15:32:00 INFO  TestRunner:134 - clicked on element
+2018-08-24 15:32:04 INFO  TestRunner:134 - clicked on element
+2018-08-24 15:36:52 INFO  TestRunner:123 - opening the browser
+2018-08-24 15:36:56 INFO  TestRunner:126 - navigating to the site
+2018-08-24 15:37:11 INFO  TestRunner:134 - clicked on element
+2018-08-24 15:37:11 INFO  TestRunner:129 - passing the values
+2018-08-24 15:37:11 INFO  TestRunner:129 - passing the values
+2018-08-24 15:37:14 INFO  TestRunner:134 - clicked on element
+2018-08-24 15:37:18 INFO  TestRunner:134 - clicked on element
+2018-08-24 15:37:18 INFO  TestRunner:123 - opening the browser
+2018-08-24 15:37:21 INFO  TestRunner:126 - navigating to the site
+2018-08-24 15:37:36 INFO  TestRunner:134 - clicked on element
+2018-08-24 15:37:36 INFO  TestRunner:129 - passing the values
+2018-08-24 15:37:36 INFO  TestRunner:129 - passing the values
+2018-08-24 15:37:39 INFO  TestRunner:134 - clicked on element
+2018-08-24 15:37:43 INFO  TestRunner:134 - clicked on element
+2018-08-24 15:37:43 INFO  TestRunner:136 - scrolling...
+2018-08-24 15:39:54 INFO  TestRunner:123 - opening the browser
+2018-08-24 15:39:58 INFO  TestRunner:126 - navigating to the site
+2018-08-24 15:40:09 INFO  TestRunner:134 - clicked on element
+2018-08-24 15:40:09 INFO  TestRunner:129 - passing the values
+2018-08-24 15:40:09 INFO  TestRunner:129 - passing the values
+2018-08-24 15:40:13 INFO  TestRunner:134 - clicked on element
+2018-08-24 15:40:18 INFO  TestRunner:134 - clicked on element
+2018-08-24 15:40:18 INFO  TestRunner:136 - scrolling...
+2018-08-24 15:42:25 INFO  TestRunner:123 - opening the browser
+2018-08-24 15:42:29 INFO  TestRunner:126 - navigating to the site
+2018-08-24 15:42:40 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:42:40 INFO  TestRunner:129 - passing the values
+2018-08-24 15:42:41 INFO  TestRunner:129 - passing the values
+2018-08-24 15:42:44 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:42:48 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:42:48 INFO  TestRunner:135 - scrolling...
+2018-08-24 15:54:59 INFO  TestRunner:123 - opening the browser
+2018-08-24 15:55:02 INFO  TestRunner:126 - navigating to the site
+2018-08-24 15:55:15 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:55:15 INFO  TestRunner:129 - passing the values
+2018-08-24 15:55:15 INFO  TestRunner:129 - passing the values
+2018-08-24 15:55:19 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:55:24 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:55:24 INFO  TestRunner:136 - scrolling...
+2018-08-24 15:55:24 INFO  TestRunner:145 - clicked on element
+2018-08-24 15:57:50 INFO  TestRunner:123 - opening the browser
+2018-08-24 15:57:54 INFO  TestRunner:126 - navigating to the site
+2018-08-24 15:58:11 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:58:11 INFO  TestRunner:129 - passing the values
+2018-08-24 15:58:11 INFO  TestRunner:129 - passing the values
+2018-08-24 15:58:14 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:58:20 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:58:20 INFO  TestRunner:136 - scrolling...
+2018-08-24 15:59:06 INFO  TestRunner:123 - opening the browser
+2018-08-24 15:59:10 INFO  TestRunner:126 - navigating to the site
+2018-08-24 15:59:26 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:59:26 INFO  TestRunner:129 - passing the values
+2018-08-24 15:59:27 INFO  TestRunner:129 - passing the values
+2018-08-24 15:59:30 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:59:35 INFO  TestRunner:133 - clicked on element
+2018-08-24 15:59:35 INFO  TestRunner:136 - scrolling...
+2018-08-24 15:59:35 INFO  TestRunner:145 - clicked on element
+2018-08-24 16:02:14 INFO  TestRunner:123 - opening the browser
+2018-08-24 16:02:18 INFO  TestRunner:126 - navigating to the site
+2018-08-24 16:02:33 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:02:33 INFO  TestRunner:129 - passing the values
+2018-08-24 16:02:33 INFO  TestRunner:129 - passing the values
+2018-08-24 16:02:36 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:02:40 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:02:40 INFO  TestRunner:136 - scrolling...
+2018-08-24 16:02:44 INFO  TestRunner:145 - new tab opening
+2018-08-24 16:04:00 INFO  TestRunner:123 - opening the browser
+2018-08-24 16:04:03 INFO  TestRunner:126 - navigating to the site
+2018-08-24 16:04:16 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:04:16 INFO  TestRunner:129 - passing the values
+2018-08-24 16:04:16 INFO  TestRunner:129 - passing the values
+2018-08-24 16:04:19 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:04:24 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:04:24 INFO  TestRunner:136 - scrolling...
+2018-08-24 16:04:27 INFO  TestRunner:145 - new tab opening
+2018-08-24 16:07:23 INFO  TestRunner:123 - opening the browser
+2018-08-24 16:07:27 INFO  TestRunner:126 - navigating to the site
+2018-08-24 16:07:46 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:07:46 INFO  TestRunner:129 - passing the values
+2018-08-24 16:07:46 INFO  TestRunner:129 - passing the values
+2018-08-24 16:07:50 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:07:58 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:07:58 INFO  TestRunner:136 - scrolling...
+2018-08-24 16:08:02 INFO  TestRunner:145 - new tab opening
+2018-08-24 16:10:55 INFO  TestRunner:123 - opening the browser
+2018-08-24 16:10:59 INFO  TestRunner:126 - navigating to the site
+2018-08-24 16:11:16 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:11:16 INFO  TestRunner:129 - passing the values
+2018-08-24 16:11:16 INFO  TestRunner:129 - passing the values
+2018-08-24 16:11:19 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:11:22 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:11:23 INFO  TestRunner:123 - opening the browser
+2018-08-24 16:11:26 INFO  TestRunner:126 - navigating to the site
+2018-08-24 16:11:40 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:11:40 INFO  TestRunner:129 - passing the values
+2018-08-24 16:11:40 INFO  TestRunner:129 - passing the values
+2018-08-24 16:11:43 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:11:48 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:11:48 INFO  TestRunner:136 - scrolling...
+2018-08-24 16:11:51 INFO  TestRunner:145 - new tab opening
+2018-08-24 16:11:52 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:17:55 INFO  TestRunner:123 - opening the browser
+2018-08-24 16:17:56 INFO  TestRunner:123 - opening the browser
+2018-08-24 16:17:59 INFO  TestRunner:126 - navigating to the site
+2018-08-24 16:18:00 INFO  TestRunner:126 - navigating to the site
+2018-08-24 16:18:13 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:18:13 INFO  TestRunner:129 - passing the values
+2018-08-24 16:18:15 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:18:15 INFO  TestRunner:129 - passing the values
+2018-08-24 16:18:15 INFO  TestRunner:129 - passing the values
+2018-08-24 16:18:18 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:18:23 INFO  TestRunner:133 - clicked on element
+2018-08-24 16:18:23 INFO  TestRunner:136 - scrolling...
+2018-08-24 16:18:25 INFO  TestRunner:145 - new tab opening
+2018-08-24 16:18:26 INFO  TestRunner:133 - clicked on element

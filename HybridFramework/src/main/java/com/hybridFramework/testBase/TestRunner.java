@@ -1,6 +1,7 @@
 package com.hybridFramework.testBase;
 
 import java.util.ArrayList;
+import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
@@ -36,7 +37,7 @@ class Executer {
 	
 	
 	
-	String testSuite[][] = ExcelReader.readExcel("Testsuite.xlsx", "TestSuite");
+	String testSuite[][] = ExcelReader.readExcel("Testsuite1.xlsx", "TestSuite");
 	int testSuiteLength = testSuite.length;
 
 	ArrayList<String> testCasesList1 = new ArrayList<String>();
@@ -62,6 +63,10 @@ class Executer {
 				testCaseNamesList2.add(testSuite[i][1]);
 
 			}
+			
+			System.out.println(testCaseNamesList1 + "----testList1-----");
+			System.out.println(testCaseNamesList2 + "----testList2-----");
+			
 			Thread t1 = new Thread(new Runnable() {
 				public void run() {
 					try {
@@ -78,7 +83,7 @@ class Executer {
 					} catch (Exception e) {}
 				}
 			});
-            t2.wait(1000);
+			TimeUnit.MILLISECONDS.sleep(1000);
 			t2.start();
 
 		} else {
@@ -89,6 +94,13 @@ class Executer {
 			}
 			executeTestCases(testCases, testCaseNames);
 		}
+		
+		/*for (int i = 1; i < testSuiteLength; i++) {
+			testCases.add(testSuite[i][0]);
+			testCaseNames.add(testSuite[i][1]);
+
+		}*/
+		executeTestCases(testCases, testCaseNames);
 
 	}
 
@@ -99,7 +111,7 @@ class Executer {
 			String testCaseID = testCases.get(j);
 			String fileName=testCaseID + ".xlsx";
 			String testCaseName = testCaseNames.get(j);
-			String excelData[][] = ExcelReader.readExcel(fileName, testCaseID);
+			String excelData[][] = ExcelReader.readExcel("Testsuite1.xlsx", testCaseID);
 			System.out.println("******Running " + testCaseName + "******");
 			
 			exTest=extent.createTest(testCaseName);
@@ -118,11 +130,21 @@ class Executer {
 					ActionKeyword.sendKeys(excelData[i][3], excelData[i][4], excelData[i][5]);
 				} else if (keyword.equals("clickOn")) {
 					ActionKeyword.clickOn(excelData[i][3], excelData[i][4]);
-				} else if (keyword.equals("quitDriver")) {
+					logger1.info("clicked on element");
+				} 
+				else if (keyword.equals("scrollDown")) {
+					logger1.info("scrolling...");
+					ActionKeyword.scrollDown();
+
+				}else if (keyword.equals("quitDriver")) {
 					logger1.info("closing the browser...");
 					ActionKeyword.quitDriver();
 
-				}
+				}else if (keyword.equals("openInNewTab")) {
+					ActionKeyword.openInNewTab(excelData[i][3], excelData[i][4]);
+					logger1.info("new tab opening");
+				} 
+				
 				exTest.log(Status.INFO,"passed");
 			}
 
